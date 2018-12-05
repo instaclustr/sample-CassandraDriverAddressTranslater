@@ -11,3 +11,5 @@ Minor modifications are also required if using Datastax driver in version 3.x as
 
 
 [The Main source file is here](src/main/java/com/company/Main.java)
+
+Please see https://www.instaclustr.com/support/documentation/announcements/instaclustr-open-source-project-status/ for Instaclustr support status of this project
